@@ -1,0 +1,22 @@
+h1 {
+    color:orange;
+}
+h2 {
+    font-weight: bold;
+}
+.debut{
+  height: 120px;
+  background-color: blue;
+}
+.milieu{
+  width  : 100px;
+  height : 100px;
+  background : red;
+  display: inline-block;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.fin{
+  background-color: orange;
+}

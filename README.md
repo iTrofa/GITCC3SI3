@@ -2,4 +2,4 @@
 4/2/2021 - 3SI3
 
 NOGUEIRA MIRANDA Luis Miguel
-DE CUMONT Guillaume
+DU CUMONT Guillaume
