@@ -4,3 +4,7 @@ h1 {
 h2 {
     font-weight: bold;
 }
+.debut{
+  height: 120px;
+  background-color: blue;
+}
